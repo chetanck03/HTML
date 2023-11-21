@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(172, 163, 153);
+    width: 356px;
+    display: inline;
+    border: 2px solid black;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color:aqua;
+    border: 2px solid black;
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+}

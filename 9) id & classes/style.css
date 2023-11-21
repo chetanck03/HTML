@@ -1,0 +1,15 @@
+/* CLASSES */
+
+.red{
+color: rgb(206, 209, 34);
+}
+
+.bg-yellow{
+    background-color:red ;
+}
+
+/* ID  */
+
+#seconddiv{
+color: aqua;
+}
